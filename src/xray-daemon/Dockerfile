@@ -1,4 +1,4 @@
-# Copyright 2017 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+e# Copyright 2017 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 #
 # Licensed under the Apache License, Version 2.0 (the "License").
 # You may not use this file except in compliance with the License.
@@ -12,6 +12,7 @@
 # permissions and limitations under the License.
 
 FROM amazonlinux:1
+
 
 # Download latest 2.x release of X-Ray daemon
 # Unpack archive, by default unzip is not installed so do that beforehand
